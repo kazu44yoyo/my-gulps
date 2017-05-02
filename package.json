@@ -13,6 +13,9 @@
     "@cedx/gulp-php-minify": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-minify-css": "^1.2.4",
-    "gulp-uglify": "^2.1.2"
+    "gulp-uglify": "^2.1.2",
+    "gulp-unzip": "^0.2.0",
+    "gulp-zip": "^4.0.0",
+    "minimist": "^1.2.0"
   }
 }
